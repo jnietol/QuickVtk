@@ -2,7 +2,7 @@ import QtQuick 2.12
 import QtQuick.Window 2.2
 
 import UI 1.0 as UI
-import Code 1.0 as Code
+//import Code 1.0 as Code
 import TypeInfo 1.0 as TypeInfo
 
 Window {

@@ -11,7 +11,7 @@
 
 #include <QFile>
 #include <QTextStream>
-
+#include <vtkUnsignedCharArray.h>
 vtkStandardNewMacro(vtkOFFReader);
 
 vtkOFFReader::vtkOFFReader() {
